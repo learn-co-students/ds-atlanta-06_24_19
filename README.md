@@ -14,5 +14,5 @@
 | Warm-up   | <a href=""></a> | |  |
 | Morning code    |
 | Morning video   | 
-| Afternoon code  | <a href="http://ae-flatiron.s3-website-us-east-1.amazonaws.com/slides-flatiron-terminal.html#/"> Terminal Code </a>   <a href=""> </a> |   <a href=""></a>  |
+| Afternoon code  | <a href="https://docs.google.com/presentation/d/1vYjZ4P1Zxu5tzNfjY5V_UZ7PWiYxz5DylXIJSFraX9s/edit#slide=id.g5c4bd338fd_0_108"> Terminal Code </a>   <a href=""> </a> |   <a href=""></a>  |
 | Afternoon video ||
