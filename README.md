@@ -16,5 +16,5 @@
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
-| Morning code|<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/tree/master/module_1/Week_2/day_1_manipulating_data_pandas"> Pandas 1 </a>  <a href=""> </a>|
+| Morning code|<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_1_manipulating_data_pandas/Manipulating%20data%20with%20Pandas.ipynb"> Pandas 1 </a>  <a href=""> </a>|
 
