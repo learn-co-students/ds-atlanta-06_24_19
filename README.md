@@ -18,7 +18,9 @@
 | Warmup |
 | Morning code|<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_1_manipulating_data_pandas/Manipulating%20data%20with%20Pandas.ipynb"> Pandas 1 </a>  <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_2_Data_Wrangling_Python/Pandas_Data_Wrangling.ipynb"> Pandas_Data_Wrangling </a>  <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_3_Merging_Data_Python/Merging%20DataFrames%20with%20pandas.ipynb"> Merging Data Frames with pandas </a> <a href=""> </a>|Holiday|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_4_visualizations_seaborn/Seaborn.ipynb"> Visualizations Seaborn </a> <a href=""> </a>
 | Morning Video|
+
 | Afternoon code|||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_1/Week_2/day_3_visualizations_matplotlib/matplotlib-intro.ipynb"> Visualizations Matplotlib  </a> <a href=""> </a>
+
 
 # Week 3
 
@@ -26,4 +28,6 @@
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
 | Morning code|Project 1|Project 1|Project 1|<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_01/day_1_intro_to_sql/SQL_day_one_solution_code%20.ipynb"> SQL_day_one </a>  <a href=""> </a>|object oriented Notes here|
+|Morning Video|
+
 
