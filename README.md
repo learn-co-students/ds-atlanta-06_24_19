@@ -25,7 +25,7 @@
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
-| Morning code| Projects|Projects|Projects|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_01/day_1_intro_to_sql/SQL_day_one_solution_code%20.ipynb"> SQL </a> <a href=""> </a>|
+| Morning code| Projects|Projects|Projects|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_01/day_1_intro_to_sql/SQL_day_one_solution_code%20.ipynb"> SQL </a> <a href=""> </a>|Object Oriented programming
 | Morning Video|
 | Afternoon code|
-
+| Afternoon Video|
