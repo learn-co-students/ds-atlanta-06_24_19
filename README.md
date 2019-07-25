@@ -39,3 +39,14 @@
 | Morning Video|
 | Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/YELP%20API.ipynb"> Yelp API </a> <a href=""> </a>|
 | Afternoon Video|
+
+# Week 5
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|<a href= "https://docs.google.com/presentation/d/1KXevq103NLDMCeuf-7bhCSQI_mxxru_fTXWDhq1Sty8/edit?usp=sharing"> Probability </a> <a href=""> </a>|<a href= "https://docs.google.com/presentation/d/1Pl5A-GgZI81BhAjGdwboMR0ZHLC7zNM93PzxTcwhN5E/edit#slide=id.g5def7a7899_0_50"> Distribution </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_2/Webscraping.ipynb"> More Webscraping </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/Introduction%20to%20API.ipynb"> Intro API </a> <a href=""> </a>|NoSQL&MONGO
+| Morning Video|
+| Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/YELP%20API.ipynb"> Yelp API </a> <a href=""> </a>|
+| Afternoon Video|
+
