@@ -48,7 +48,8 @@ Be prepared to answer questions such as:
      - [ ] You may use Pandas or Python functions
      - [ ] Document your data cleaning process
  - [ ] Use **Scipy and/or Statsmodels** perform meaningful statistial analysis on your data set. You may also use your own or prewritten functions.
-     - [ ] Carry out **at least three** of the statistical test using the tools learned from lecture and learn.co (ANOVA and t-test)
+     - [ ] Carry out **at least three** hypothesis test using the using the statistical test from lecture and learn.co (ANOVA, t-test, etc).
+     - [ ] Carry out any further statistical analysis such as power analysis, effect size, etc.
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
    - [ ] At least 10 commits
@@ -56,12 +57,12 @@ Be prepared to answer questions such as:
      - [ ] Each project member should commit at least once
    - [ ] A Jupyter notebook targeted to a technical audience that contains
      - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
-   - [ ] Your final joined and cleaned dataset that was used for analysis
+   - [ ] Your final joined and cleaned dataset that was used for analysis.
+   - [ ] The packages or methods used to perform stastistical analysis.
    - [ ] A narrative Jupyter notebook targeted to a non-technical audience that provides:
      - [ ] The purpose of your analysis and why it matters
-     - [ ] 4 well annotated visualizations created using Matplotlib/Seaborn
-     - [ ] 2 meaningful summary tables
-     - [ ] **At least two actionable insights** 
+     - [ ] 4 well annotated visualizations
+     - [ ] Statement of your hypotheses and conclusions 
    - [ ] A pdf of 8 - 10 slides used in a presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearance
      - [ ] Write an abbreviated high-level overview of methodology
