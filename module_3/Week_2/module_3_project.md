@@ -22,10 +22,12 @@ Here's the schema for the Northwind database:
 
 ## Deliverables
 - Your team must prepare a 5-10 minute presentation detailing the statistical analysis performed. 
-- Be sure to specify both the null hypothesis and the alternative hypothesis for your questions. 
+- Be sure to specify both the null hypothesis and the alternative hypothesis. 
 - You should also specify if your hypothesis is a one-tail or a two-tail test.
 - Your presentation must provide at least three hypotheses(questions) and outline the process you went through to test the hypotheses. 
 - Use at least 4 meaningful data visualizations to help illustrate your findings. 
+- Any additional statistial analysis used to reach conclusions(Power, sample size, effect size, and other statistical 
+analysis)
 - No more than 8 slides.
 
 Be prepared to answer questions such as:
