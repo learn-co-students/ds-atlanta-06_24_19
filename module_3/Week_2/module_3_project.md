@@ -8,7 +8,7 @@ You have made it half way through the course work!
 ## The Project
 **The goal of this project is to test your ability to gather information from a real-world database and 
 use your knowledge of statistical analysis and hypothesis testing to generate analytical insights that 
-can be of value to a company.**
+are valuable.**
 
 ## Data Source
 - For this project, you may work with the Northwind database--a free, open-source dataset created by Microsoft 
@@ -41,9 +41,9 @@ Be prepared to answer questions such as:
 
  - [ ] Use the data provided or one of your own
    - [ ] Establish naming conventions for variables and datasets
-   - [ ] Clean dataset & record parameters used to clean the data
+   - [ ] Clean dataset
      - [ ] You may use Pandas or Python functions
-     - [ ] **Document every step of the cleaning process**
+     - [ ] Document your data cleaning process
  - [ ] Use Pandas and Numpy to generate useful metrics for readmission
 
  - [ ] Posted to git repository:
@@ -59,13 +59,13 @@ Be prepared to answer questions such as:
      - [ ] 4 well annotated visualizations created using Matplotlib/Seaborn
      - [ ] 2 meaningful summary tables
      - [ ] **At least two actionable insights** 
-   - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
+   - [ ] A pdf of 8 - 10 slides used in a presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearance
      - [ ] Write an abbreviated high-level overview of methodology
-     - [ ] Justify **at least 2** concrete recommendations 
+     - [ ] Present **at least 3** hypotheses tested and concrete recommendations from conclusions drawn from statistical analysis 
      - [ ] include exported visualizations from analysis
      - [ ] Target the presentation to a non-technical audience, avoid jargon
-     - [ ] Take no more than 5 minutes to present
+     - [ ] Take 5 - 10 minutes to present
  
 ## Specifics:
 ### This project is in groups
@@ -76,7 +76,7 @@ Be prepared to answer questions such as:
 ### Timeline
 
 07/31 Wednesday - Project Assignment 
- - schedule Monday check in with coach
+ - schedule Thursday check in with coach
  
 08/01 Thurday - Check in with coach 
  - review data cleaning
