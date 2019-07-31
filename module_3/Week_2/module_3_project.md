@@ -23,7 +23,7 @@ Here's the schema for the Northwind database:
 - You should also specify if your hypothesis is a one-tail or a two-tail test.
 - Your presentation must provide at least three hypotheses(questions) and outline the process you went through to test the hypotheses. 
 - Use at least 4 meaningful data visualizations to help illustrate your findings. 
-- Any additional statistial analysis used to reach conclusions(Power, sample size, effect size, and other statistical 
+- Any additional statistial analysis used to reach conclusions(Power, sample size, effect size, sampling, and other statistical 
 analysis)
 - No more than 8 slides.
 
@@ -46,7 +46,7 @@ Be prepared to answer questions such as:
      - [ ] Document your data cleaning process
  - [ ] Use **Scipy and/or Statsmodels** perform meaningful statistial analysis on your data set. You may also use your own or prewritten functions.
      - [ ] Carry out **at least three** hypothesis test using the statistical test from lectures and learn.co (ANOVA, t-test, etc).
-     - [ ] Carry out any further statistical analysis such as power analysis, effect size, etc.
+     - [ ] Carry out any further statistical analysis such as power analysis, sampling, effect size, etc.
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
    - [ ] At least 10 commits
