@@ -15,29 +15,35 @@ can be of value to a company.**
 containing data from a fictional company. You probably remember the Northwind database from our section on Advanced SQL. 
 Here's the schema for the Northwind database:
 [Schema](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project/master/Northwind_ERD_updated.png)
-- You can also use data of your own finding that is interesting. This should be in the form of a database if possible, but please find a data set that will lead to interesting hypothesis(questions)
+- You can also use data of your own finding that is interesting. This should be in the form of a database if possible, but please find a data set that will lead to interesting hypotheses(questions).
   - if you find data you think is helpful, please feel free to ask for instructor help via Slack.
 
 
 
 ## Deliverables
-Your team must prepare a 5 minute presentation that gives the other team members insights as to what features they should focus on to impact hospital readmission. Your presentation must outline the process you went through and use at least 4 meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.  No more than 8 slides.
+- Your team must prepare a 5-10 minute presentation detailing the statistical analysis performed. 
+- Be sure to specify both the null hypothesis and the alternative hypothesis for your questions. 
+- You should also specify if your hypothesis is a one-tail or a two-tail test.
+- Your presentation must provide at least three hypotheses(questions) and outline the process you went through to test the hypotheses. 
+- Use at least 4 meaningful data visualizations to help illustrate your findings. 
+- No more than 8 slides.
 
 Be prepared to answer questions such as:
+- "Why did you select your data?"
 - "how did you pick the question(s) that you did?"
-- "why are these questions important from a business and/or healthcare perspective?"
+- "why are these questions important?"
+- "how did you decide on the statistical analysis carried out by your group?"
 - "how did you decide on the data cleaning options you performed?"
 - "why did you choose a given method or library?"
 - "why did you select those visualizations and what did you learn from each of them?"
 
 ## Project Checklist:
 
- - [ ] Use the data given
+ - [ ] Use the data provided or one of your own
    - [ ] Establish naming conventions for variables and datasets
    - [ ] Clean dataset & record parameters used to clean the data
      - [ ] You may use Pandas or Python functions
      - [ ] **Document every step of the cleaning process**
-     - [ ] Create **at least two** new features that were not present in the original data sets
  - [ ] Use Pandas and Numpy to generate useful metrics for readmission
 
  - [ ] Posted to git repository:
@@ -63,32 +69,33 @@ Be prepared to answer questions such as:
  
 ## Specifics:
 ### This project is in groups
-- Group A: Gary Wheeler + Patrick Kim
-- Group B: Maia Ngo + Christiaan Defaux
-- Group C: Princess Otusanya + Thoa Shook
+- Group A: Gary Wheeler + Maia Ngo
+- Group B: Thoa Shook + Christiaan Defaux
+- Group C: Princess Otusanya +  Patrick Kim
 - Groups are to work independently without outside consulting 
 ### Timeline
 
-07/05 Friday - Project Assignment 
+07/31 Wednesday - Project Assignment 
  - schedule Monday check in with coach
  
-07/08 Monday - Check in with coach 
+08/01 Thurday - Check in with coach 
  - review data cleaning
  - provide url of project repository
  - review at least one table/chart
+ - one hypothesis and how you plan to test it.
  - review work plan created for how teammates will approach and divide work
  
-07/09 Tuesday - Demo presentation with feedback from instructors
+08/02 Friday - Demo presentation with feedback from instructors
  - have polished draft completed
  - have polished version of jupyter notebook completed
  
-07/10 Wednesday 
+08/5 Monday
  - afternoon project presentation
  - science fair open to staff and fellow students
 
 ### Project Review
 If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
- - Perform additional data cleanup, visualization, and/or feature selection 
+ - Perform additional data cleanup, data visualization, and statistical analysis 
  - Submit an improved version
  - Meet again for another Project Presentation
  
@@ -96,5 +103,3 @@ What won't happen:
  - You won't be yelled at, belittled, or scolded
  - You won't be put on the spot without support
  - There's nothing you can do to instantly blow it
-### Citation
-[1] Wikipedia contributors. (2019, February 17). Hospital readmission. In Wikipedia, The Free Encyclopedia. Retrieved 22:04, July 4, 2019, from https://en.wikipedia.org/w/index.php?title=Hospital_readmission&oldid=883703655
