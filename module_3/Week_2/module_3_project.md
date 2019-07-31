@@ -54,8 +54,8 @@ Be prepared to answer questions such as:
      - [ ] Each project member should commit at least once
    - [ ] A Jupyter notebook targeted to a technical audience that contains
      - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
-   - [ ] Your final joined and cleaned dataset that was used for analysis.
-   - [ ] The packages or methods used to perform stastistical analysis.
+     - [ ] Your final joined and cleaned dataset that was used for analysis.
+     - [ ] The packages or methods used to perform stastistical analysis.
    - [ ] A narrative Jupyter notebook targeted to a non-technical audience that provides:
      - [ ] The purpose of your analysis and why it matters
      - [ ] 4 well annotated visualizations
