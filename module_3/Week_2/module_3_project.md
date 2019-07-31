@@ -34,6 +34,7 @@ Be prepared to answer questions such as:
 - "why did you select your data?"
 - "why did you pick the question(s)?"
 - "why are these questions important?"
+- "What are type I and II errors associated with your hypotheses?" 
 - "how did you decide on the statistical analysis carried out by your group and what did you learn from them?"
 - "how did you decide on the data cleaning options you performed?"
 - "why did you choose a given method or library?"
@@ -46,7 +47,9 @@ Be prepared to answer questions such as:
    - [ ] Clean dataset
      - [ ] You may use Pandas or Python functions
      - [ ] Document your data cleaning process
- - [ ] Use Scipy and/or Statsmodels perform meaningful statistial analysis on your data set
+ - [ ] Use **Scipy and/or Statsmodels** perform meaningful statistial analysis on your data set. You may also use your own or prewritten functions.
+     - [ ] Carry out **at least three** of the statistical test demonstrated on Learn.Co (ANOVA, t-test)
+
 
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
