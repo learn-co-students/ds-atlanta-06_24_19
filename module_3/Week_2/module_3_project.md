@@ -8,10 +8,7 @@ You have made it half way through the course work!
 ## The Project
 **The goal of this project is to test your ability to gather information from a real-world database and 
 use your knowledge of statistical analysis and hypothesis testing to generate analytical insights that 
-can be of value to the company.**
-
-
-
+can be of value to a company.**
 
 ## Data Source
 - For this project, you may work with the Northwind database--a free, open-source dataset created by Microsoft 
