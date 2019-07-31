@@ -92,7 +92,6 @@ Be prepared to answer questions such as:
  
 08/5 Monday
  - afternoon project presentation
- - science fair open to staff and fellow students
 
 ### Project Review
 If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
