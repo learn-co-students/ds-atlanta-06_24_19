@@ -11,16 +11,16 @@ use your knowledge of statistical analysis and hypothesis testing to generate an
 can be of value to the company.**
 
 
-For this project, you'll be working with the Northwind database--a free, open-source dataset created by Microsoft 
+
+
+## Data Source
+- For this project, you may work with the Northwind database--a free, open-source dataset created by Microsoft 
 containing data from a fictional company. You probably remember the Northwind database from our section on Advanced SQL. 
 Here's the schema for the Northwind database:
 [Schema](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project/master/Northwind_ERD_updated.png)
-
-## Data Source
-The data used for the project was obtained from the UCI repository. If you find other useful data on the web you are welcome to include it (but this is not a requirement).  
-- **DATA LINK:** https://drive.google.com/file/d/152upD_aPXdpF8WrdAppOKP_uKlqnNtuM/view?usp=sharing
-- More data!
+- You can also use data of your own finding that is interesting. This should be in the form of a database if possible, but please find a data set that will lead to interesting hypothesis(questions)
   - if you find data you think is helpful, please feel free to ask for instructor help via Slack.
+
 
 
 ## Deliverables
