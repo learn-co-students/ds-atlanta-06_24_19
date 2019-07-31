@@ -62,8 +62,8 @@ Be prepared to answer questions such as:
      - [ ] Statement of your hypotheses and conclusions 
    - [ ] A pdf of 8 - 10 slides used in a presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearance
-     - [ ] Write an abbreviated high-level overview of methodology
-     - [ ] Present **at least 3** hypotheses tested and concrete recommendations from conclusions drawn from statistical analysis 
+     - [ ] Write an abbreviated high-level overview of methodology and statistical analysis performed
+     - [ ] Present **at least 3** hypotheses and concrete recommendations from conclusions drawn from hypothesis testing
      - [ ] include exported visualizations from analysis
      - [ ] Target the presentation to a non-technical audience, avoid jargon
      - [ ] Take 5 - 10 minutes to present
