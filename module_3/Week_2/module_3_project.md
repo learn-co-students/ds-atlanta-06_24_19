@@ -31,10 +31,10 @@ analysis)
 - No more than 8 slides.
 
 Be prepared to answer questions such as:
-- "Why did you select your data?"
-- "how did you pick the question(s) that you did?"
+- "why did you select your data?"
+- "why did you pick the question(s)?"
 - "why are these questions important?"
-- "how did you decide on the statistical analysis carried out by your group?"
+- "how did you decide on the statistical analysis carried out by your group and what did you learn from them?"
 - "how did you decide on the data cleaning options you performed?"
 - "why did you choose a given method or library?"
 - "why did you select those visualizations and what did you learn from each of them?"
@@ -46,7 +46,7 @@ Be prepared to answer questions such as:
    - [ ] Clean dataset
      - [ ] You may use Pandas or Python functions
      - [ ] Document your data cleaning process
- - [ ] Use Pandas and Numpy to generate useful metrics for readmission
+ - [ ] Use Scipy and/or Statsmodels perform meaningful statistial analysis on your data set
 
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
