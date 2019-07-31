@@ -48,9 +48,7 @@ Be prepared to answer questions such as:
      - [ ] You may use Pandas or Python functions
      - [ ] Document your data cleaning process
  - [ ] Use **Scipy and/or Statsmodels** perform meaningful statistial analysis on your data set. You may also use your own or prewritten functions.
-     - [ ] Carry out **at least three** of the statistical test demonstrated on Learn.Co (ANOVA, t-test)
-
-
+     - [ ] Carry out **at least three** of the statistical test using the tools learned from lecture and learn.co (ANOVA and t-test)
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
    - [ ] At least 10 commits
