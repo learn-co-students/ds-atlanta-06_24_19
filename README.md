@@ -50,3 +50,13 @@
 | Afternoon code|||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/day_5_anova/Intro-ANOVA.ipynb"> ANOVA </a> <a href=""> </a>
 | Afternoon Video|
 
+# Week 6
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_1/AB%20testing.ipynb"> A/B Testing </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_2/Bayes%20Theorem.ipynb"> Bayesian Statistics </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_3/Sampling.ipynb"> Sampling </a> <a href=""> </a>|Project|Project|
+| Morning Video|
+| Afternoon code|||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/day_5_anova/Intro-ANOVA.ipynb"> ANOVA </a> <a href=""> </a>
+| Afternoon Video|
+
