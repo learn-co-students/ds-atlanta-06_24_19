@@ -57,7 +57,7 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
 | Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_1/AB%20testing.ipynb"> A/B Testing </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_2/Bayes%20Theorem.ipynb"> Bayesian Statistics </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_3/Week_2/day_3/Sampling.ipynb"> Sampling </a> <a href=""> </a>|Project|Project|
-| Morning Video|<a href= "https://youtu.be/D9BAZelP0Fs"> A/B Testing </a> <a href=""> </a>
+| Morning Video|<a href= "https://youtu.be/D9BAZelP0Fs"> A/B Testing </a> <a href=""> </a>|<a href= https://youtu.be/xDRChAXvVRU"> Bayesian </a> <a href=""> </a>
 | Afternoon code|||||
 | Afternoon Video|
 
