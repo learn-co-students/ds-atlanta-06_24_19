@@ -38,7 +38,9 @@
 | Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_1/JSON.ipynb"> JSON </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_2/Webscraping.ipynb"> Webscraping </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_2/Webscraping.ipynb"> More Webscraping </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/Introduction%20to%20API.ipynb"> Intro API </a> <a href=""> </a>|NoSQL&MONGO
 | Morning Video||||<a href= "https://youtu.be/j0Q_sSdveJ0"> Intro API </a> <a href=""> </a>|
 Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/YELP%20API.ipynb"> Yelp API </a> <a href=""> </a>|
-| Afternoon Video|
+| Afternoon Video||||<a href="https://www.youtube.com/watch?v=-XqhpAHesAI&feature=youtu.be
+"> Jonnel API Workshop </a> <a href=""> </a>|
+
 
 # Week 5
 
