@@ -15,7 +15,7 @@ are valuable.**
 containing data from a fictional company. You probably remember the Northwind database from our section on Advanced SQL. 
 Here's the schema for the Northwind database:
 [Schema](https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-3-project/master/Northwind_ERD_updated.png)
-- You can also use data of your own finding that is interesting. This should be in the form of a database if possible, but please find a data set that will lead to interesting hypotheses(questions).
+- You can also use data of your own finding that is interesting. Ideally,the data should be in the form of a database, but please find a data set that will lead to interesting hypotheses(questions).
 
 ## Deliverables
 - Your team must prepare a 5-10 minute presentation detailing the statistical analysis performed. 
