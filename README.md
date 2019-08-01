@@ -36,7 +36,7 @@
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
 | Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_1/JSON.ipynb"> JSON </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_2/Webscraping.ipynb"> Webscraping </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_2/Webscraping.ipynb"> More Webscraping </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/Introduction%20to%20API.ipynb"> Intro API </a> <a href=""> </a>|<a href= "https://docs.google.com/presentation/d/1yJ0Fm8J5Znk0dfC11BUCnfeV2eSUjTWQm5AxTQMC11U/edit#slide=id.g5d8cbe16d9_0_28"> NOSQL </a> <a href=""> </a>| 
-| Morning Video|<a href= "https://youtu.be/bM2hrRhLreE"> JSON </a> <a href=""> </a>||<a href= "https://youtu.be/j0Q_sSdveJ0"> Intro API </a> <a href=""> </a>|
+| Morning Video|<a href= "https://youtu.be/bM2hrRhLreE"> JSON </a> <a href=""> </a>|||<a href= "https://youtu.be/j0Q_sSdveJ0"> Intro API </a> <a href=""> </a>|
 Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_2/week_2/day_4/YELP%20API.ipynb"> Yelp API </a> <a href=""> </a>|
 | Afternoon Video||||<a href="https://www.youtube.com/watch?v=-XqhpAHesAI&feature=youtu.be"> Jonnel API Workshop </a> <a href=""> </a>|
 
