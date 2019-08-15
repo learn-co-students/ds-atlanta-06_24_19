@@ -70,7 +70,6 @@ Also, remember that if a visualization is worth creating, then it's also worth t
 * An intelligent use of color--multiple lines should have different colors and/or symbols to make them easily differentiable to the eye
 * An appropriate amount of information--avoid creating graphs that are "too busy"--for instance, don't create a line graph with 25 different lines on it
 
-<center><img src='images/bad-graph-1.png' height=100% width=100%>
 There's just too much going on in this graph for it to be readable--don't make the same mistake! (<a href='http://genywealth.com/wp-content/uploads/2010/03/line-graph.php_.png'>Source</a>)</center>
 
 ### Executive Summary Must-Haves
