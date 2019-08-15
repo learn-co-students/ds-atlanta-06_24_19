@@ -55,7 +55,7 @@ The notebook should be well organized, easy to follow, and commented where appro
 
 #### Findings
 
-Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best investt" so that they understand what the code you are writing is trying to solve.
+Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best" so that they understand what the code you are writing is trying to solve.
 
 #### Visualizations
 
