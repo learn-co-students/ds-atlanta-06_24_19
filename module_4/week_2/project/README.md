@@ -17,7 +17,7 @@ Another module down--you're absolutely crushing it! For this project, you'll get
 
 <img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-4-project/master/images/timegif.gif'>
 
-For this module's final project, we're going to put your new found **Regression & Time Series Analysis_** skills to the test.
+For this module's final project, we're going to put your new found **Regression & Time Series Analysis** skills to the test.
 
 ### The Project
 
