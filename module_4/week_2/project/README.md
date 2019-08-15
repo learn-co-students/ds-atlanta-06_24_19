@@ -78,10 +78,10 @@ Your presentation should:
 
 Contain between 5-10 professional quality slides detailing:
 
-* A high-level overview of your methodology and findings, including the 5 zipcodes you recommend investing in
+* A high-level overview of your methodology and findings
 * A brief explanation of what metrics you defined as "best" in order complete this project
 
 As always, this presentation should also:
 
-* Take no more than 5 minutes to present
+* Take 5 to 10 minutes to present
 * Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
