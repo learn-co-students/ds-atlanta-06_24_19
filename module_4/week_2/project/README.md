@@ -41,7 +41,7 @@ In order to complete this project, you must have:
 ### Jupyter Notebook Must-Haves
 
 1. You must source & clean your data.  All boring stuff should be pushed to a .py file that is imported.  A single data set (albeit possibly from multiple sources) should be able to support all of the following requirements.
-2. You must do one each of a linear regression, a logistic regression, and a time-series analysis (to included, at a minimum, a calculation of trend and seasonality).
+2. You must do one each of a linear regression, a logistic regression, and a time-series analysis.
 3. In either your linear or logistic regression, use $R^2$ and AIC/BIC to determine the best of two models
 4. Visualizations to support each of your models built
 
