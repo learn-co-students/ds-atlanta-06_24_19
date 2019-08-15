@@ -30,9 +30,9 @@ For this project, you will be acting as a consultant for a fictional firm. As a 
 
 The goal of this project is to have you complete a very common real-world task in regard to Regression and Time-Series Modeling. However, real world problems often come with a significant degree of ambiguity, which requires you to use your knowledge of statistics and data science to think critically about and answer.
 
-In short, to pass this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building your models!
+In short, to do well on this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building your models!
 
-In order to successfully complete this project, you must have:
+In order to complete this project, you must have:
 
 * A well-documented **_Jupyter Notebook_** containing any code you've written for this project.
 * An **_'Executive Summary' PowerPoint Presentation_** that explains your rationale and methodology for determining the best zipcodes for investment.
@@ -47,15 +47,15 @@ In order to successfully complete this project, you must have:
 
 #### Organization/Code Cleanliness
 
-The notebook should be well organized, easy to follow, and code is modularized and commented where appropriate.
+The notebook should be well organized, easy to follow, and commented where appropriate.
 
-* Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code. All functions have docstrings that act as professional-quality documentation.
+* Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code. All functions should have docstrings that act as professional-quality documentation.
 * The notebook is written to technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
 * Data visualizations you create should be clearly labeled and contextualized--that is, they fit with the surrounding code or problems you're trying to solve. No dropping data visualizations randomly around your notebook without any context!
 
 #### Findings
 
-Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best investment" so that they understand what the code you are writing is trying to solve.
+Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best investt" so that they understand what the code you are writing is trying to solve.
 
 #### Visualizations
 
