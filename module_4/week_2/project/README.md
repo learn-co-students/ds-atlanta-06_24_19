@@ -17,7 +17,7 @@ Another module down--you're absolutely crushing it! For this project, you'll get
 
 <img src='https://raw.githubusercontent.com/learn-co-curriculum/dsc-mod-4-project/master/images/timegif.gif'>
 
-For this module's final project, we're going to put your new found **Regression & Time Series Analysis_** skills to the test.
+For this module's final project, we're going to put your new found **Regression & Time Series Analysis** skills to the test.
 
 ### The Project
 
@@ -30,9 +30,9 @@ For this project, you will be acting as a consultant for a fictional firm. As a 
 
 The goal of this project is to have you complete a very common real-world task in regard to Regression and Time-Series Modeling. However, real world problems often come with a significant degree of ambiguity, which requires you to use your knowledge of statistics and data science to think critically about and answer.
 
-In short, to pass this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building your models!
+In short, to do well on this project, demonstrating the quality and thoughtfulness of your overall recommendation is at least as important as successfully building your models!
 
-In order to successfully complete this project, you must have:
+In order to complete this project, you must have:
 
 * A well-documented **_Jupyter Notebook_** containing any code you've written for this project.
 * An **_'Executive Summary' PowerPoint Presentation_** that explains your rationale and methodology for determining the best zipcodes for investment.
@@ -40,22 +40,22 @@ In order to successfully complete this project, you must have:
 
 ### Jupyter Notebook Must-Haves
 
-1. You must source & clean your data.  All boring stuff should be pushed to a .py file that is imported.  A single data set (albeit possibly from multiple sources) should be able to support all of the following requirements.
-2. You must do one each of a linear regression, a logistic regression, and a time-series analysis (to included, at a minimum, a calculation of trend and seasonality).
+1. You must source & clean your data.  All boring stuff should be pushed to a .py file that is imported.  A data set (albeit possibly from multiple sources) should be able to support all of the following requirements.
+2. You must choose two out of the possible three models we studied in Module 4 (linear regression, a logistic regression, and time-series analysis).
 3. In either your linear or logistic regression, use $R^2$ and AIC/BIC to determine the best of two models
 4. Visualizations to support each of your models built
 
 #### Organization/Code Cleanliness
 
-The notebook should be well organized, easy to follow, and code is modularized and commented where appropriate.
+The notebook should be well organized, easy to follow, and commented where appropriate.
 
-* Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code. All functions have docstrings that act as professional-quality documentation.
+* Level Up: The notebook contains well-formatted, professional looking markdown cells explaining any substantial code. All functions should have docstrings that act as professional-quality documentation.
 * The notebook is written to technical audiences with a way to both understand your approach and reproduce your results. The target audience for this deliverable is other data scientists looking to validate your findings.
 * Data visualizations you create should be clearly labeled and contextualized--that is, they fit with the surrounding code or problems you're trying to solve. No dropping data visualizations randomly around your notebook without any context!
 
 #### Findings
 
-Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best investment" so that they understand what the code you are writing is trying to solve.
+Your notebook should briefly mention the metrics you have defined as "best", so that any readers understand what technical metrics you are trying to optimize. You do **not** need to explain or defend your your choices in the notebook--the blog post and executive summary presentation are both better suited to that sort of content. However, the notebook should provide enough context about your definition for "best" so that they understand what the code you are writing is trying to solve.
 
 #### Visualizations
 
@@ -70,7 +70,6 @@ Also, remember that if a visualization is worth creating, then it's also worth t
 * An intelligent use of color--multiple lines should have different colors and/or symbols to make them easily differentiable to the eye
 * An appropriate amount of information--avoid creating graphs that are "too busy"--for instance, don't create a line graph with 25 different lines on it
 
-<center><img src='images/bad-graph-1.png' height=100% width=100%>
 There's just too much going on in this graph for it to be readable--don't make the same mistake! (<a href='http://genywealth.com/wp-content/uploads/2010/03/line-graph.php_.png'>Source</a>)</center>
 
 ### Executive Summary Must-Haves
@@ -79,10 +78,10 @@ Your presentation should:
 
 Contain between 5-10 professional quality slides detailing:
 
-* A high-level overview of your methodology and findings, including the 5 zipcodes you recommend investing in
+* A high-level overview of your methodology and findings
 * A brief explanation of what metrics you defined as "best" in order complete this project
 
 As always, this presentation should also:
 
-* Take no more than 5 minutes to present
+* Take 5 to 10 minutes to present
 * Avoid technical jargon and explain results in a clear, actionable way for non-technical audiences.
